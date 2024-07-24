@@ -14,3 +14,4 @@ uploads
 models/ss/dump.rdb
 cronjob/node_modules
 derived
+notes
